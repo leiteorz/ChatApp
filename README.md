@@ -4,6 +4,8 @@
 
 UI框架采用Jetpack Compose。
 
+制作过程请参照我的博客：https://juejin.cn/spost/7312628439285973007
+
 # 使用说明
 
 如果你想使用这个源码，那么你应该先去OpenAI官网申请一个Api Key，在sendQuestion方法中将params["Authorization"] = "Bearer sk-xxx"的"sk-xxx"替换成你自己的Api Key。
